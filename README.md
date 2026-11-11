@@ -35,3 +35,5 @@ Test cases and expected outputs are provided in the tests folder.
 - Python 3
 - Google Colab
 - GitHub
+## Development
+This project was developed and tested using Python 3.
